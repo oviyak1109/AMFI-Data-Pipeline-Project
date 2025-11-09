@@ -58,6 +58,5 @@ Chennai, India
 📧 [k.oviyak9@gmail.com](mailto:k.oviyak9@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/oviya-k-16a383361)
 
-##*Note: I used AI tools to assist with debugging and summarizing this README. All project design, implementation, and code logic were done by me.*
+*Note: I used AI tools to assist with debugging and summarizing this README. All project design, implementation, and code logic were done by me.*
 
-## Project Structure
